@@ -1,0 +1,22 @@
+{
+  "name": "Holocycle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodejs ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.1",
+    "prando": "^3.0.3",
+    "static-favicon": "^2.0.0-alpha"
+  }
+}
